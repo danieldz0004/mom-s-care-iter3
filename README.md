@@ -1,3 +1,6 @@
-# mom-s-care-iter2
-# mom-s-care-iter3
-# mom-s-care-iter3
+# Monash IE Project
+## Mom's care Project
+## Authour: Daniel Dz
+
+## 5.13 updated
+### add a progress animation
