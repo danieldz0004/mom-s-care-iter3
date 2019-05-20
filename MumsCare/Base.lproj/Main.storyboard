@@ -514,10 +514,11 @@
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8XD-Nh-yX4" userLabel="connectView">
                                         <rect key="frame" x="0.0" y="0.0" width="375" height="1187"/>
                                         <subviews>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="7" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6hr-ZC-7sx">
-                                                <rect key="frame" x="12" y="8" width="350" height="150"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" alpha="0.75" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="7" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6hr-ZC-7sx">
+                                                <rect key="frame" x="0.0" y="0.0" width="376" height="158"/>
+                                                <color key="backgroundColor" red="0.55396211149999997" green="0.72899264100000005" blue="0.92159080510000002" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="height" constant="150" id="kzc-SE-1aH"/>
+                                                    <constraint firstAttribute="height" constant="158" id="efm-rC-LV0"/>
                                                 </constraints>
                                                 <string key="text">Feel part of a bigger Chinese community
 
@@ -527,13 +528,13 @@ Chinese people
 Feel Australia "A home away from home" 
 </string>
                                                 <fontDescription key="fontDescription" name="ArialMT" family="Arial" pointSize="17"/>
-                                                <nil key="textColor"/>
+                                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Find Parks" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b3q-iD-tt9">
                                                 <rect key="frame" x="0.0" y="481" width="376" height="36"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="height" constant="36" id="hdu-Xr-gzI"/>
+                                                    <constraint firstAttribute="height" constant="36" id="bNV-3R-vyw"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
                                                 <nil key="textColor"/>
@@ -543,7 +544,7 @@ Feel Australia "A home away from home"
                                                 <rect key="frame" x="46" y="411" width="280" height="37"/>
                                                 <color key="backgroundColor" red="0.36470588240000001" green="0.29411764709999999" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="height" constant="37" id="gNB-TB-Z1Y"/>
+                                                    <constraint firstAttribute="height" constant="37" id="p6M-Rl-EQP"/>
                                                 </constraints>
                                                 <state key="normal" title="Find More">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -564,7 +565,7 @@ Feel Australia "A home away from home"
                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bench-560435_1280" translatesAutoresizingMaskIntoConstraints="NO" id="5Mr-0y-I1D">
                                                 <rect key="frame" x="14" y="525" width="351" height="234"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="height" constant="233.99999999999977" id="8Qc-2E-6FA"/>
+                                                    <constraint firstAttribute="height" constant="233.99999999999977" id="3wh-bY-Oit"/>
                                                 </constraints>
                                             </imageView>
                                             <view contentMode="scaleToFill" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="5iU-ia-Ddq" userLabel="line">
@@ -574,14 +575,14 @@ Feel Australia "A home away from home"
                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="hands" translatesAutoresizingMaskIntoConstraints="NO" id="6NT-J4-oq5">
                                                 <rect key="frame" x="12" y="166" width="350" height="237"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="height" constant="237" id="c2l-VU-aet"/>
+                                                    <constraint firstAttribute="height" constant="237" id="T2r-YL-hJ5"/>
                                                 </constraints>
                                             </imageView>
                                             <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="N6e-xp-NWa">
                                                 <rect key="frame" x="51" y="767" width="280" height="37"/>
                                                 <color key="backgroundColor" red="0.36470588240000001" green="0.29411764709999999" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="height" constant="37" id="Rpe-d0-5Qq"/>
+                                                    <constraint firstAttribute="height" constant="37" id="hHP-jJ-VRl"/>
                                                 </constraints>
                                                 <state key="normal" title="Find Parks">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -598,7 +599,7 @@ Feel Australia "A home away from home"
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Find Toilets" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mke-1j-MCF">
                                                 <rect key="frame" x="0.0" y="828" width="376" height="36"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="height" constant="36" id="Ons-yr-lfz"/>
+                                                    <constraint firstAttribute="height" constant="36" id="Bdu-8Z-hk7"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
                                                 <nil key="textColor"/>
@@ -607,7 +608,7 @@ Feel Australia "A home away from home"
                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" image="wc-265279_1280" translatesAutoresizingMaskIntoConstraints="NO" id="WBy-y1-RsL">
                                                 <rect key="frame" x="13" y="865" width="351" height="234"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="height" constant="234" id="FwY-fZ-Gvg"/>
+                                                    <constraint firstAttribute="height" constant="234" id="Gfh-ab-Rua"/>
                                                 </constraints>
                                             </imageView>
                                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="OOZ-qI-6Cu" userLabel="line">
@@ -618,7 +619,7 @@ Feel Australia "A home away from home"
                                                 <rect key="frame" x="46" y="1107" width="280" height="37"/>
                                                 <color key="backgroundColor" red="0.36470588240000001" green="0.29411764709999999" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="height" constant="37" id="pZg-1S-MIM"/>
+                                                    <constraint firstAttribute="height" constant="37" id="YYK-fG-fsR"/>
                                                 </constraints>
                                                 <state key="normal" title="Find Toilets">
                                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -635,41 +636,41 @@ Feel Australia "A home away from home"
                                         </subviews>
                                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <constraints>
-                                            <constraint firstItem="6hr-ZC-7sx" firstAttribute="centerX" secondItem="8XD-Nh-yX4" secondAttribute="centerX" id="1IY-nB-QtH"/>
-                                            <constraint firstItem="Oof-Ee-P0s" firstAttribute="trailing" secondItem="Edu-PQ-rrF" secondAttribute="trailing" id="1gF-zB-1u5"/>
-                                            <constraint firstItem="Mke-1j-MCF" firstAttribute="top" secondItem="OOZ-qI-6Cu" secondAttribute="bottom" constant="15" id="2eo-xB-l58"/>
-                                            <constraint firstItem="N6e-xp-NWa" firstAttribute="top" secondItem="5Mr-0y-I1D" secondAttribute="bottom" constant="8.0000000000002274" id="33R-PS-jyc"/>
-                                            <constraint firstItem="WBy-y1-RsL" firstAttribute="leading" secondItem="8XD-Nh-yX4" secondAttribute="leading" constant="13" id="3dN-aL-Rut"/>
-                                            <constraint firstItem="5iU-ia-Ddq" firstAttribute="top" secondItem="Oof-Ee-P0s" secondAttribute="bottom" constant="18" id="3oA-pM-Gqb"/>
-                                            <constraint firstItem="5iU-ia-Ddq" firstAttribute="leading" secondItem="8XD-Nh-yX4" secondAttribute="leading" constant="11" id="4Wh-PP-BI6"/>
-                                            <constraint firstItem="Oof-Ee-P0s" firstAttribute="top" secondItem="6NT-J4-oq5" secondAttribute="bottom" constant="8" symbolic="YES" id="6dK-XR-POs"/>
-                                            <constraint firstItem="N6e-xp-NWa" firstAttribute="centerX" secondItem="OOZ-qI-6Cu" secondAttribute="centerX" id="9uD-yv-hmy"/>
-                                            <constraint firstItem="5Mr-0y-I1D" firstAttribute="leading" secondItem="8XD-Nh-yX4" secondAttribute="leading" constant="14" id="DDs-GA-WDL"/>
-                                            <constraint firstItem="Oof-Ee-P0s" firstAttribute="leading" secondItem="Edu-PQ-rrF" secondAttribute="leading" id="DL9-9Q-f3C"/>
-                                            <constraint firstItem="6NT-J4-oq5" firstAttribute="centerX" secondItem="5iU-ia-Ddq" secondAttribute="centerX" id="FLt-qu-in5"/>
-                                            <constraint firstItem="b3q-iD-tt9" firstAttribute="top" secondItem="8XD-Nh-yX4" secondAttribute="top" constant="481" id="G8w-kV-sBi"/>
-                                            <constraint firstItem="Mke-1j-MCF" firstAttribute="centerX" secondItem="WBy-y1-RsL" secondAttribute="centerX" id="I5F-h1-r5m"/>
-                                            <constraint firstItem="b3q-iD-tt9" firstAttribute="centerX" secondItem="8XD-Nh-yX4" secondAttribute="centerX" id="J3T-Zv-ppW"/>
-                                            <constraint firstItem="Edu-PQ-rrF" firstAttribute="top" secondItem="WBy-y1-RsL" secondAttribute="bottom" constant="8" symbolic="YES" id="QXl-05-gnn"/>
-                                            <constraint firstItem="Oof-Ee-P0s" firstAttribute="centerX" secondItem="5iU-ia-Ddq" secondAttribute="centerX" id="TAz-7X-u08"/>
-                                            <constraint firstItem="b3q-iD-tt9" firstAttribute="trailing" secondItem="Mke-1j-MCF" secondAttribute="trailing" id="Vbz-aM-p5V"/>
-                                            <constraint firstAttribute="trailing" secondItem="5Mr-0y-I1D" secondAttribute="trailing" constant="10" id="XOE-7L-ORX"/>
-                                            <constraint firstItem="OOZ-qI-6Cu" firstAttribute="top" secondItem="N6e-xp-NWa" secondAttribute="bottom" constant="8" symbolic="YES" id="ZES-qD-VIE"/>
-                                            <constraint firstItem="6NT-J4-oq5" firstAttribute="trailing" secondItem="5iU-ia-Ddq" secondAttribute="trailing" id="ZSw-Gg-v2B"/>
-                                            <constraint firstItem="OOZ-qI-6Cu" firstAttribute="leading" secondItem="8XD-Nh-yX4" secondAttribute="leading" constant="16" id="ev2-JL-y1P"/>
-                                            <constraint firstItem="b3q-iD-tt9" firstAttribute="leading" secondItem="Mke-1j-MCF" secondAttribute="leading" id="fNE-Yh-neD"/>
-                                            <constraint firstItem="b3q-iD-tt9" firstAttribute="top" secondItem="5iU-ia-Ddq" secondAttribute="bottom" constant="14" id="gLo-K3-MpS"/>
-                                            <constraint firstItem="WBy-y1-RsL" firstAttribute="top" secondItem="Mke-1j-MCF" secondAttribute="bottom" constant="1" id="gjV-8f-fFn"/>
-                                            <constraint firstItem="Oof-Ee-P0s" firstAttribute="leading" secondItem="8XD-Nh-yX4" secondAttribute="leading" constant="46" id="hRe-Zd-gHb"/>
-                                            <constraint firstItem="6hr-ZC-7sx" firstAttribute="top" secondItem="8XD-Nh-yX4" secondAttribute="topMargin" id="i95-q3-rr3"/>
-                                            <constraint firstItem="5Mr-0y-I1D" firstAttribute="top" secondItem="b3q-iD-tt9" secondAttribute="bottom" constant="8" symbolic="YES" id="m57-WT-CrQ"/>
-                                            <constraint firstItem="6hr-ZC-7sx" firstAttribute="leading" secondItem="6NT-J4-oq5" secondAttribute="leading" id="pq5-dS-GwR"/>
-                                            <constraint firstItem="6NT-J4-oq5" firstAttribute="top" secondItem="6hr-ZC-7sx" secondAttribute="bottom" constant="8" symbolic="YES" id="qjB-Te-ZeC"/>
-                                            <constraint firstItem="OOZ-qI-6Cu" firstAttribute="trailing" secondItem="8XD-Nh-yX4" secondAttribute="trailingMargin" id="rOR-ns-Mbt"/>
-                                            <constraint firstAttribute="bottom" secondItem="Edu-PQ-rrF" secondAttribute="bottom" constant="43" id="uul-Ga-1iJ"/>
-                                            <constraint firstItem="b3q-iD-tt9" firstAttribute="leading" secondItem="8XD-Nh-yX4" secondAttribute="leading" id="v7l-Lz-QoU"/>
-                                            <constraint firstItem="6hr-ZC-7sx" firstAttribute="trailing" secondItem="6NT-J4-oq5" secondAttribute="trailing" id="vXY-tb-1jN"/>
-                                            <constraint firstItem="N6e-xp-NWa" firstAttribute="leading" secondItem="8XD-Nh-yX4" secondAttribute="leading" constant="51" id="yEU-c4-Sfk"/>
+                                            <constraint firstItem="OOZ-qI-6Cu" firstAttribute="trailing" secondItem="8XD-Nh-yX4" secondAttribute="trailingMargin" id="620-Pm-IgG"/>
+                                            <constraint firstItem="5iU-ia-Ddq" firstAttribute="top" secondItem="Oof-Ee-P0s" secondAttribute="bottom" constant="18" id="8Aq-yS-WQl"/>
+                                            <constraint firstItem="5Mr-0y-I1D" firstAttribute="top" secondItem="b3q-iD-tt9" secondAttribute="bottom" constant="8" symbolic="YES" id="AyE-jv-XhR"/>
+                                            <constraint firstItem="N6e-xp-NWa" firstAttribute="top" secondItem="5Mr-0y-I1D" secondAttribute="bottom" constant="8.0000000000002274" id="CtZ-78-wBY"/>
+                                            <constraint firstItem="b3q-iD-tt9" firstAttribute="top" secondItem="5iU-ia-Ddq" secondAttribute="bottom" constant="14" id="E0e-Ux-PPT"/>
+                                            <constraint firstItem="b3q-iD-tt9" firstAttribute="top" secondItem="8XD-Nh-yX4" secondAttribute="top" constant="481" id="KcR-Ph-zRA"/>
+                                            <constraint firstItem="6NT-J4-oq5" firstAttribute="top" secondItem="6hr-ZC-7sx" secondAttribute="bottom" constant="8" symbolic="YES" id="LDI-oi-sYN"/>
+                                            <constraint firstItem="b3q-iD-tt9" firstAttribute="leading" secondItem="Mke-1j-MCF" secondAttribute="leading" id="MSF-iG-MJq"/>
+                                            <constraint firstItem="6hr-ZC-7sx" firstAttribute="top" secondItem="8XD-Nh-yX4" secondAttribute="top" id="Nds-SC-B6D"/>
+                                            <constraint firstItem="OOZ-qI-6Cu" firstAttribute="leading" secondItem="8XD-Nh-yX4" secondAttribute="leading" constant="16" id="OrP-ug-FH6"/>
+                                            <constraint firstItem="Mke-1j-MCF" firstAttribute="top" secondItem="OOZ-qI-6Cu" secondAttribute="bottom" constant="15" id="QNJ-j0-vKO"/>
+                                            <constraint firstItem="5iU-ia-Ddq" firstAttribute="leading" secondItem="8XD-Nh-yX4" secondAttribute="leading" constant="11" id="SxM-Jz-iEB"/>
+                                            <constraint firstItem="6NT-J4-oq5" firstAttribute="trailing" secondItem="5iU-ia-Ddq" secondAttribute="trailing" id="XA7-13-K1v"/>
+                                            <constraint firstItem="Oof-Ee-P0s" firstAttribute="leading" secondItem="8XD-Nh-yX4" secondAttribute="leading" constant="46" id="XjZ-EN-Ih5"/>
+                                            <constraint firstItem="6hr-ZC-7sx" firstAttribute="leading" secondItem="b3q-iD-tt9" secondAttribute="leading" id="YUF-NF-FfD"/>
+                                            <constraint firstItem="6NT-J4-oq5" firstAttribute="centerX" secondItem="8XD-Nh-yX4" secondAttribute="centerX" id="Z8k-CF-tZT"/>
+                                            <constraint firstItem="WBy-y1-RsL" firstAttribute="top" secondItem="Mke-1j-MCF" secondAttribute="bottom" constant="1" id="aTW-Tk-HKM"/>
+                                            <constraint firstItem="Mke-1j-MCF" firstAttribute="centerX" secondItem="WBy-y1-RsL" secondAttribute="centerX" id="aUf-Ju-JHP"/>
+                                            <constraint firstItem="WBy-y1-RsL" firstAttribute="leading" secondItem="8XD-Nh-yX4" secondAttribute="leading" constant="13" id="eDM-Gf-6KJ"/>
+                                            <constraint firstItem="6hr-ZC-7sx" firstAttribute="leading" secondItem="8XD-Nh-yX4" secondAttribute="leading" id="f5e-j9-u4y"/>
+                                            <constraint firstItem="Oof-Ee-P0s" firstAttribute="trailing" secondItem="Edu-PQ-rrF" secondAttribute="trailing" id="fj8-o9-gID"/>
+                                            <constraint firstItem="6NT-J4-oq5" firstAttribute="centerX" secondItem="5iU-ia-Ddq" secondAttribute="centerX" id="gT5-4f-ojs"/>
+                                            <constraint firstItem="6hr-ZC-7sx" firstAttribute="centerX" secondItem="8XD-Nh-yX4" secondAttribute="centerX" id="h9c-f3-Tf1"/>
+                                            <constraint firstItem="b3q-iD-tt9" firstAttribute="trailing" secondItem="Mke-1j-MCF" secondAttribute="trailing" id="hRC-78-qDJ"/>
+                                            <constraint firstItem="6hr-ZC-7sx" firstAttribute="trailing" secondItem="b3q-iD-tt9" secondAttribute="trailing" id="i7Y-ft-LGn"/>
+                                            <constraint firstItem="5Mr-0y-I1D" firstAttribute="leading" secondItem="8XD-Nh-yX4" secondAttribute="leading" constant="14" id="iyH-Ag-22x"/>
+                                            <constraint firstItem="N6e-xp-NWa" firstAttribute="centerX" secondItem="OOZ-qI-6Cu" secondAttribute="centerX" id="kw6-rD-QBu"/>
+                                            <constraint firstItem="Oof-Ee-P0s" firstAttribute="top" secondItem="6NT-J4-oq5" secondAttribute="bottom" constant="8" symbolic="YES" id="l4p-v0-fny"/>
+                                            <constraint firstAttribute="trailing" secondItem="5Mr-0y-I1D" secondAttribute="trailing" constant="10" id="oJh-nN-BV3"/>
+                                            <constraint firstItem="OOZ-qI-6Cu" firstAttribute="top" secondItem="N6e-xp-NWa" secondAttribute="bottom" constant="8" symbolic="YES" id="pJA-Le-XVE"/>
+                                            <constraint firstItem="N6e-xp-NWa" firstAttribute="leading" secondItem="8XD-Nh-yX4" secondAttribute="leading" constant="51" id="qKH-NO-1Fc"/>
+                                            <constraint firstItem="Edu-PQ-rrF" firstAttribute="top" secondItem="WBy-y1-RsL" secondAttribute="bottom" constant="8" symbolic="YES" id="svc-KY-mRt"/>
+                                            <constraint firstItem="Oof-Ee-P0s" firstAttribute="leading" secondItem="Edu-PQ-rrF" secondAttribute="leading" id="tDu-8s-T0U"/>
+                                            <constraint firstItem="Oof-Ee-P0s" firstAttribute="centerX" secondItem="5iU-ia-Ddq" secondAttribute="centerX" id="zdw-pZ-dHC"/>
+                                            <constraint firstAttribute="bottom" secondItem="Edu-PQ-rrF" secondAttribute="bottom" constant="43" id="ziJ-fh-NpB"/>
                                         </constraints>
                                     </view>
                                 </subviews>
@@ -706,7 +707,7 @@ Feel Australia "A home away from home"
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="RCi-Qr-nNb" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="180" y="1623"/>
+            <point key="canvasLocation" x="177.536231884058" y="1622.2826086956522"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="on6-5C-Cdr">
