@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina5_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Mom's Care" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" highlighted="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EoJ-lQ-ZZw">
+                                <rect key="frame" x="20" y="344" width="374" height="49"/>
+                                <fontDescription key="fontDescription" name=".SFNSDisplay" family=".SF NS Display" pointSize="41"/>
+                                <color key="textColor" red="0.36470588240000001" green="0.29411764709999999" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="highlightedColor" red="0.36470588240000001" green="0.29411764709999999" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="shadowColor" red="1" green="0.54160927879999998" blue="0.97347162769999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <size key="shadowOffset" width="4" height="-1"/>
+                            </label>
+                            <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" misplaced="YES" progress="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="eXd-LZ-cMu">
+                                <rect key="frame" x="89" y="401" width="237" height="2"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="progressTintColor" red="1" green="0.54160927879999998" blue="0.97347162769999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <color key="trackTintColor" red="0.36470588240000001" green="0.29411764709999999" blue="0.59999999999999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </progressView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="EoJ-lQ-ZZw" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="324" id="I4S-pa-4GD"/>
+                            <constraint firstItem="EoJ-lQ-ZZw" firstAttribute="centerX" secondItem="eXd-LZ-cMu" secondAttribute="centerX" id="I8l-n5-S56"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="eXd-LZ-cMu" secondAttribute="bottom" constant="333" id="O0l-Zz-Esn"/>
+                            <constraint firstItem="eXd-LZ-cMu" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" constant="69" id="bWh-Nf-GBL"/>
+                            <constraint firstItem="EoJ-lQ-ZZw" firstAttribute="trailing" secondItem="Ze5-6b-2t3" secondAttribute="trailingMargin" id="bqa-JN-Who"/>
+                            <constraint firstItem="eXd-LZ-cMu" firstAttribute="top" secondItem="EoJ-lQ-ZZw" secondAttribute="bottom" constant="8" symbolic="YES" id="dEj-da-F0Q"/>
+                            <constraint firstItem="EoJ-lQ-ZZw" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leadingMargin" id="jdw-eB-ttE"/>
+                            <constraint firstItem="EoJ-lQ-ZZw" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" id="wgP-bu-f5G"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52" y="374.6305418719212"/>
+        </scene>
+    </scenes>
+</document>

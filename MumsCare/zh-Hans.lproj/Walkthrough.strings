@@ -1,0 +1,20 @@
+//Localized by Siyu Zhang
+
+/* Class = "UILabel"; text = "Vaccination tracker helps your aware differences between China and Australia’s vaccination requirements"; ObjectID = "dIO-6v-SSV"; */
+"dIO-6v-SSV.text" = "掌握中澳疫苗差异";
+
+/* Class = "UILabel"; text = "Find your desired suburb to reconnect to your culture with your baby in Australia"; ObjectID = "osn-Xs-uaI"; */
+"osn-Xs-uaI.text" = "根据您的需求选择适合的社区";
+
+/* Class = "UILabel"; text = "Growth tracker can help you track your baby’s growth path and check your baby’s health condition"; ObjectID = "ozS-Vn-6go"; */
+"ozS-Vn-6go.text" = "使用电子清单来追踪孩子的成长记录";
+
+/* Class = "UILabel"; text = "Use baby’s care to find suitable kindergarten and child care center nearby your suburb"; ObjectID = "pGz-I6-pSq"; */
+"pGz-I6-pSq.text" = "寻找附近的幼儿园和日托班";
+
+//tutorial page 5
+"BoG-YR-acB.text" = "应用现已全面适配中文\n";
+
+"j8f-1a-649.normalTitle" = "如何更改语言";
+
+"4oX-Xj-2Xl.normalTitle" = "跳过教程";

@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Week9Tutorial/Base.lproj/LaunchScreen.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+    </header>
+    <body>
+      <trans-unit id="EoJ-lQ-ZZw.text">
+        <source>Mom's Care</source>
+        <target>Mom's Care</target>
+        <note>Class = "UILabel"; text = "Mom's Care"; ObjectID = "EoJ-lQ-ZZw";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Week9Tutorial/Base.lproj/Main.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+    </header>
+    <body>
+      <trans-unit id="2m7-M9-o2R.title">
+        <source>Map</source>
+        <target>Map</target>
+        <note>Class = "UINavigationItem"; title = "Map"; ObjectID = "2m7-M9-o2R";</note>
+      </trans-unit>
+      <trans-unit id="6hr-ZC-7sx.text">
+        <source>Feel part of a bigger Chinese community
+
+Get valuable support from the network of 
+Chinese people
+
+Feel Australia "A home away from home" 
+</source>
+        <target>Feel part of a bigger Chinese community
+
+Get valuable support from the network of 
+Chinese people
+
+Feel Australia "A home away from home" 
+</target>
+        <note>Class = "UILabel"; text = "Feel part of a bigger Chinese community\n\nGet valuable support from the network of \nChinese people\n\nFeel Australia \"A home away from home\" \n"; ObjectID = "6hr-ZC-7sx";</note>
+      </trans-unit>
+      <trans-unit id="7ES-fc-ju3.text">
+        <source>4.9</source>
+        <target>4.9</target>
+        <note>Class = "UILabel"; text = "4.9"; ObjectID = "7ES-fc-ju3";</note>
+      </trans-unit>
+      <trans-unit id="7GW-i9-Knq.normalTitle">
+        <source>Show History Data</source>
+        <target>Show History Data</target>
+        <note>Class = "UIButton"; normalTitle = "Show History Data"; ObjectID = "7GW-i9-Knq";</note>
+      </trans-unit>
+      <trans-unit id="7ra-0G-hwg.title">
+        <source>Home</source>
+        <target>Home</target>
+        <note>Class = "UITabBarItem"; title = "Home"; ObjectID = "7ra-0G-hwg";</note>
+      </trans-unit>
+      <trans-unit id="CQr-mk-pZ9.text">
+        <source>English Proficiency:</source>
+        <target>English Proficiency:</target>
+        <note>Class = "UILabel"; text = "English Proficiency:"; ObjectID = "CQr-mk-pZ9";</note>
+      </trans-unit>
+      <trans-unit id="DtM-Gb-M8l.normalTitle">
+        <source>Button</source>
+        <target>Button</target>
+        <note>Class = "UIButton"; normalTitle = "Button"; ObjectID = "DtM-Gb-M8l";</note>
+      </trans-unit>
+      <trans-unit id="Dwa-IR-WFW.text">
+        <source>Want to know Vaccination Rate </source>
+        <target>Want to know Vaccination Rate </target>
+        <note>Class = "UILabel"; text = "Want to know Vaccination Rate "; ObjectID = "Dwa-IR-WFW";</note>
+      </trans-unit>
+      <trans-unit id="EOX-Zp-dzq.normalTitle">
+        <source>Choose Your Baby's Age</source>
+        <target>Choose Your Baby's Age</target>
+        <note>Class = "UIButton"; normalTitle = "Choose Your Baby's Age"; ObjectID = "EOX-Zp-dzq";</note>
+      </trans-unit>
+      <trans-unit id="Ede-D4-e48.text">
+        <source>IN YOUR AREA ?</source>
+        <target>IN YOUR AREA ?</target>
+        <note>Class = "UILabel"; text = "IN YOUR AREA ?"; ObjectID = "Ede-D4-e48";</note>
+      </trans-unit>
+      <trans-unit id="Edu-PQ-rrF.normalTitle">
+        <source>Find Toilets</source>
+        <target>Find Toilets</target>
+        <note>Class = "UIButton"; normalTitle = "Find Toilets"; ObjectID = "Edu-PQ-rrF";</note>
+      </trans-unit>
+      <trans-unit id="GxR-KM-AKQ.text">
+        <source>Do You Know?
+You need to prepare different knid of food for your baby in his/her different ages in Month</source>
+        <target>Do You Know?
+You need to prepare different knid of food for your baby in his/her different ages in Month</target>
+        <note>Class = "UILabel"; text = "Do You Know?\nYou need to prepare different knid of food for your baby in his/her different ages in Month"; ObjectID = "GxR-KM-AKQ";</note>
+      </trans-unit>
+      <trans-unit id="H3N-Eu-E1Y.text">
+        <source>Find the Difference Between China and Australia</source>
+        <target>Find the Difference Between China and Australia</target>
+        <note>Class = "UILabel"; text = "Find the Difference Between China and Australia"; ObjectID = "H3N-Eu-E1Y";</note>
+      </trans-unit>
+      <trans-unit id="JGR-Lc-Cui.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "JGR-Lc-Cui";</note>
+      </trans-unit>
+      <trans-unit id="JKy-o4-CAQ.title">
+        <source>Find Hospital</source>
+        <target>Find Hospital</target>
+        <note>Class = "UIBarButtonItem"; title = "Find Hospital"; ObjectID = "JKy-o4-CAQ";</note>
+      </trans-unit>
+      <trans-unit id="JnW-do-vx4.title">
+        <source>Show Photo</source>
+        <target>Show Photo</target>
+        <note>Class = "UIBarButtonItem"; title = "Show Photo"; ObjectID = "JnW-do-vx4";</note>
+      </trans-unit>
+      <trans-unit id="KGn-4q-tP5.title">
+        <source>Tracker</source>
+        <target>Tracker</target>
+        <note>Class = "UITabBarItem"; title = "Tracker"; ObjectID = "KGn-4q-tP5";</note>
+      </trans-unit>
+      <trans-unit id="LS2-GK-eMx.title">
+        <source>Vaccination in Your Area</source>
+        <target>Vaccination in Your Area</target>
+        <note>Class = "UINavigationItem"; title = "Vaccination in Your Area"; ObjectID = "LS2-GK-eMx";</note>
+      </trans-unit>
+      <trans-unit id="M7x-iY-mOe.text">
+        <source>Find the Difference Between China and Australia</source>
+        <target>Find the Difference Between China and Australia</target>
+        <note>Class = "UILabel"; text = "Find the Difference Between China and Australia"; ObjectID = "M7x-iY-mOe";</note>
+      </trans-unit>
+      <trans-unit id="Mke-1j-MCF.text">
+        <source>Find Toilets</source>
+        <target>Find Toilets</target>
+        <note>Class = "UILabel"; text = "Find Toilets"; ObjectID = "Mke-1j-MCF";</note>
+      </trans-unit>
+      <trans-unit id="N6e-xp-NWa.normalTitle">
+        <source>Find Parks</source>
+        <target>Find Parks</target>
+        <note>Class = "UIButton"; normalTitle = "Find Parks"; ObjectID = "N6e-xp-NWa";</note>
+      </trans-unit>
+      <trans-unit id="Oof-Ee-P0s.normalTitle">
+        <source>Find More</source>
+        <target>Find More</target>
+        <note>Class = "UIButton"; normalTitle = "Find More"; ObjectID = "Oof-Ee-P0s";</note>
+      </trans-unit>
+      <trans-unit id="Si6-pY-pwV.title">
+        <source>Baby's Care</source>
+        <target>Baby's Care</target>
+        <note>Class = "UITabBarItem"; title = "Baby's Care"; ObjectID = "Si6-pY-pwV";</note>
+      </trans-unit>
+      <trans-unit id="TZR-Dt-vPC.title">
+        <source>Vaccination Info</source>
+        <target>Vaccination Info</target>
+        <note>Class = "UINavigationItem"; title = "Vaccination Info"; ObjectID = "TZR-Dt-vPC";</note>
+      </trans-unit>
+      <trans-unit id="TZw-cy-RJI.placeholder">
+        <source>Tap to Select</source>
+        <target>Tap to Select</target>
+        <note>Class = "UITextField"; placeholder = "Tap to Select"; ObjectID = "TZw-cy-RJI";</note>
+      </trans-unit>
+      <trans-unit id="TyJ-NY-LQl.normalTitle">
+        <source>FIND MORE</source>
+        <target>FIND MORE</target>
+        <note>Class = "UIButton"; normalTitle = "FIND MORE"; ObjectID = "TyJ-NY-LQl";</note>
+      </trans-unit>
+      <trans-unit id="Ula-JD-COa.text">
+        <source>Find Kindergartens</source>
+        <target>Find Kindergartens</target>
+        <note>Class = "UILabel"; text = "Find Kindergartens"; ObjectID = "Ula-JD-COa";</note>
+      </trans-unit>
+      <trans-unit id="VsW-do-yTG.title">
+        <source>Connect</source>
+        <target>Connect</target>
+        <note>Class = "UITabBarItem"; title = "Connect"; ObjectID = "VsW-do-yTG";</note>
+      </trans-unit>
+      <trans-unit id="Xxx-We-71h.title">
+        <source>Mom's Care</source>
+        <target>Mom's Care</target>
+        <note>Class = "UINavigationItem"; title = "Mom's Care"; ObjectID = "Xxx-We-71h";</note>
+      </trans-unit>
+      <trans-unit id="aKW-RH-dCD.title">
+        <source>Baby's Care</source>
+        <target>Baby's Care</target>
+        <note>Class = "UINavigationItem"; title = "Baby's Care"; ObjectID = "aKW-RH-dCD";</note>
+      </trans-unit>
+      <trans-unit id="b3q-iD-tt9.text">
+        <source>Find Parks</source>
+        <target>Find Parks</target>
+        <note>Class = "UILabel"; text = "Find Parks"; ObjectID = "b3q-iD-tt9";</note>
+      </trans-unit>
+      <trans-unit id="cYr-4w-CUk.text">
+        <source>Vaccination Differences Between</source>
+        <target>Vaccination Differences Between</target>
+        <note>Class = "UILabel"; text = "Vaccination Differences Between"; ObjectID = "cYr-4w-CUk";</note>
+      </trans-unit>
+      <trans-unit id="ds5-v5-Qi4.normalTitle">
+        <source>Submit</source>
+        <target>Submit</target>
+        <note>Class = "UIButton"; normalTitle = "Submit"; ObjectID = "ds5-v5-Qi4";</note>
+      </trans-unit>
+      <trans-unit id="gb9-2v-zuP.text">
+        <source>Take your first steps to get closer to your culture</source>
+        <target>Take your first steps to get closer to your culture</target>
+        <note>Class = "UILabel"; text = "Take your first steps to get closer to your culture"; ObjectID = "gb9-2v-zuP";</note>
+      </trans-unit>
+      <trans-unit id="gl3-kY-F5p.text">
+        <source>Chinese Population:</source>
+        <target>Chinese Population:</target>
+        <note>Class = "UILabel"; text = "Chinese Population:"; ObjectID = "gl3-kY-F5p";</note>
+      </trans-unit>
+      <trans-unit id="h9t-3t-ayg.normalTitle">
+        <source>Find Location</source>
+        <target>Find Location</target>
+        <note>Class = "UIButton"; normalTitle = "Find Location"; ObjectID = "h9t-3t-ayg";</note>
+      </trans-unit>
+      <trans-unit id="hDy-Ao-jkN.text">
+        <source>Find the Difference Between China and Australia</source>
+        <target>Find the Difference Between China and Australia</target>
+        <note>Class = "UILabel"; text = "Find the Difference Between China and Australia"; ObjectID = "hDy-Ao-jkN";</note>
+      </trans-unit>
+      <trans-unit id="hT5-JK-1KW.title">
+        <source>Milestone</source>
+        <target>Milestone</target>
+        <note>Class = "UITabBarItem"; title = "Milestone"; ObjectID = "hT5-JK-1KW";</note>
+      </trans-unit>
+      <trans-unit id="hU7-MJ-7rO.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "hU7-MJ-7rO";</note>
+      </trans-unit>
+      <trans-unit id="jV1-bP-Tf7.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "jV1-bP-Tf7";</note>
+      </trans-unit>
+      <trans-unit id="jeW-iA-kqP.text">
+        <source>Vaccination Tracker</source>
+        <target>Vaccination Tracker</target>
+        <note>Class = "UILabel"; text = "Vaccination Tracker"; ObjectID = "jeW-iA-kqP";</note>
+      </trans-unit>
+      <trans-unit id="kcV-Mc-rhw.normalTitle">
+        <source>FIND MORE</source>
+        <target>FIND MORE</target>
+        <note>Class = "UIButton"; normalTitle = "FIND MORE"; ObjectID = "kcV-Mc-rhw";</note>
+      </trans-unit>
+      <trans-unit id="lbI-rb-ihn.text">
+        <source>Find Childcare Centres</source>
+        <target>Find Childcare Centres</target>
+        <note>Class = "UILabel"; text = "Find Childcare Centres"; ObjectID = "lbI-rb-ihn";</note>
+      </trans-unit>
+      <trans-unit id="ocV-4r-PNn.text">
+        <source>China and Australia</source>
+        <target>China and Australia</target>
+        <note>Class = "UILabel"; text = "China and Australia"; ObjectID = "ocV-4r-PNn";</note>
+      </trans-unit>
+      <trans-unit id="qWA-ZE-miU.placeholder">
+        <source>Tap to Select</source>
+        <target>Tap to Select</target>
+        <note>Class = "UITextField"; placeholder = "Tap to Select"; ObjectID = "qWA-ZE-miU";</note>
+      </trans-unit>
+      <trans-unit id="rTX-JD-VyN.title">
+        <source>Vaccination Tracker</source>
+        <target>Vaccination Tracker</target>
+        <note>Class = "UINavigationItem"; title = "Vaccination Tracker"; ObjectID = "rTX-JD-VyN";</note>
+      </trans-unit>
+      <trans-unit id="sYa-OP-O2J.title">
+        <source>Connect You</source>
+        <target>Connect You</target>
+        <note>Class = "UINavigationItem"; title = "Connect You"; ObjectID = "sYa-OP-O2J";</note>
+      </trans-unit>
+      <trans-unit id="ub2-G6-mY1.normalTitle">
+        <source>Find Location</source>
+        <target>Find Location</target>
+        <note>Class = "UIButton"; normalTitle = "Find Location"; ObjectID = "ub2-G6-mY1";</note>
+      </trans-unit>
+      <trans-unit id="w6W-X1-0RR.text">
+        <source>Language:</source>
+        <target>Language:</target>
+        <note>Class = "UILabel"; text = "Language:"; ObjectID = "w6W-X1-0RR";</note>
+      </trans-unit>
+      <trans-unit id="wgm-Y1-svP.title">
+        <source>Locations Sort By Rate</source>
+        <target>Locations Sort By Rate</target>
+        <note>Class = "UINavigationItem"; title = "Locations Sort By Rate"; ObjectID = "wgm-Y1-svP";</note>
+      </trans-unit>
+      <trans-unit id="zNI-Wy-GHJ.placeholder">
+        <source>Tap to Select</source>
+        <target>Tap to Select</target>
+        <note>Class = "UITextField"; placeholder = "Tap to Select"; ObjectID = "zNI-Wy-GHJ";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Week9Tutorial/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>mom's care</source>
+        <target>mom's care</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>Week9Tutorial</source>
+        <target>Week9Tutorial</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSFaceIDUsageDescription">
+        <source>This app requires Face ID permission to authenticate using Face recognition</source>
+        <target>This app requires Face ID permission to authenticate using Face recognition</target>
+        <note>Privacy - Face ID Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSLocationWhenInUseUsageDescription">
+        <source>Google map want to access your location</source>
+        <target>Google map want to access your location</target>
+        <note>Privacy - Location When In Use Usage Description</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Week9Tutorial/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+    </header>
+    <body>
+      <trans-unit id="0-2 Month">
+        <source>0-2 Month</source>
+        <target>0-2 Month</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="0-3 Months">
+        <source>0-3 Months</source>
+        <target>0-3 Months</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="2-4 Month">
+        <source>2-4 Month</source>
+        <target>2-4 Month</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="3-6 Months">
+        <source>3-6 Months</source>
+        <target>3-6 Months</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="4-6 Month">
+        <source>4-6 Month</source>
+        <target>4-6 Month</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="5 in 1 vaccine">
+        <source>5 in 1 vaccine</source>
+        <target>5 in 1 vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="6 in 1 vaccine">
+        <source>6 in 1 vaccine</source>
+        <target>6 in 1 vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="6-9 Months">
+        <source>6-9 Months</source>
+        <target>6-9 Months</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="6-12 Month">
+        <source>6-12 Month</source>
+        <target>6-12 Month</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="9-12 Months">
+        <source>9-12 Months</source>
+        <target>9-12 Months</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="12-15 Months">
+        <source>12-15 Months</source>
+        <target>12-15 Months</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Australia">
+        <source>Australia</source>
+        <target>Australia</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Average">
+        <source>Average</source>
+        <target>Average</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="BCG">
+        <source>BCG</source>
+        <target>BCG</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Baby's Age in Month">
+        <source>Baby's Age in Month</source>
+        <target>Baby's Age in Month</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Baby's Care">
+        <source>Baby's Care</source>
+        <target>Baby's Care</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Bacille Calmette-Guérin  vaccine">
+        <source>Bacille Calmette-Guérin  vaccine</source>
+        <target>Bacille Calmette-Guérin  vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Cantonese">
+        <source>Cantonese</source>
+        <target>Cantonese</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Checklist">
+        <source>Checklist</source>
+        <target>Checklist</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="China">
+        <source>China</source>
+        <target>China</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Chinese Population">
+        <source>Chinese Population</source>
+        <target>Chinese Population</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compare">
+        <source>Compare</source>
+        <target>Compare</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Compare the vaccinations of China and Australia and stay updated">
+        <source>Compare the vaccinations of China and Australia and stay updated</source>
+        <target>Compare the vaccinations of China and Australia and stay updated</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Confirm">
+        <source>Confirm</source>
+        <target>Confirm</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Connect You">
+        <source>Connect You</source>
+        <target>Connect You</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Connecting to the same culturally rich community can imbibe the cultural values in your kids and keep them related to their own culture">
+        <source>Connecting to the same culturally rich community can imbibe the cultural values in your kids and keep them related to their own culture</source>
+        <target>Connecting to the same culturally rich community can imbibe the cultural values in your kids and keep them related to their own culture</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DTaP">
+        <source>DTaP</source>
+        <target>DTaP</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DTaPHibHepBIPV">
+        <source>DTaPHibHepBIPV</source>
+        <target>DTaPHibHepBIPV</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DTwP">
+        <source>DTwP</source>
+        <target>DTwP</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="DTwPHibHepB">
+        <source>DTwPHibHepB</source>
+        <target>DTwPHibHepB</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Diphtheria, tetanus and pertussis vaccine">
+        <source>Diphtheria, tetanus and pertussis vaccine</source>
+        <target>Diphtheria, tetanus and pertussis vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Diptheria, tetanus and pertussis vaccines">
+        <source>Diptheria, tetanus and pertussis vaccines</source>
+        <target>Diptheria, tetanus and pertussis vaccines</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Do You Know?&#10;Different countries have different vaccination schedule">
+        <source>Do You Know?
+Different countries have different vaccination schedule</source>
+        <target>Do You Know?
+Different countries have different vaccination schedule</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Do You Know?&#10;How is your surburb in vaccination awarness and facilities">
+        <source>Do You Know?
+How is your surburb in vaccination awarness and facilities</source>
+        <target>Do You Know?
+How is your surburb in vaccination awarness and facilities</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="English Only">
+        <source>English Only</source>
+        <target>English Only</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="English Proficiency">
+        <source>English Proficiency</source>
+        <target>English Proficiency</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Excellent">
+        <source>Excellent</source>
+        <target>Excellent</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Find More">
+        <source>Find More</source>
+        <target>Find More</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Find a suburb where Chinese people speaks:">
+        <source>Find a suburb where Chinese people speaks:</source>
+        <target>Find a suburb where Chinese people speaks:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Find a suburb where the number of Chinese people is:">
+        <source>Find a suburb where the number of Chinese people is:</source>
+        <target>Find a suburb where the number of Chinese people is:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Find age wise growth charts">
+        <source>Find age wise growth charts</source>
+        <target>Find age wise growth charts</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Find childcare centres in your suburb">
+        <source>Find childcare centres in your suburb</source>
+        <target>Find childcare centres in your suburb</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Find kindergartens in your suburb">
+        <source>Find kindergartens in your suburb</source>
+        <target>Find kindergartens in your suburb</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Find the places where you want to live">
+        <source>Find the places where you want to live</source>
+        <target>Find the places where you want to live</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Find the previous year vaccination coverage rates of the suburb to know vaccination facilities in your area">
+        <source>Find the previous year vaccination coverage rates of the suburb to know vaccination facilities in your area</source>
+        <target>Find the previous year vaccination coverage rates of the suburb to know vaccination facilities in your area</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Find the suburb where the Chinese people's proficiency is:">
+        <source>Find the suburb where the Chinese people's proficiency is:</source>
+        <target>Find the suburb where the Chinese people's proficiency is:</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Find vaccination palces near me">
+        <source>Find vaccination palces near me</source>
+        <target>Find vaccination palces near me</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="FindDifference">
+        <source>FindDifference</source>
+        <target>FindDifference</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Good">
+        <source>Good</source>
+        <target>Good</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Growth Tracker">
+        <source>Growth Tracker</source>
+        <target>Growth Tracker</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Haemophilus influenzae type b and meningitis C">
+        <source>Haemophilus influenzae type b and meningitis C</source>
+        <target>Haemophilus influenzae type b and meningitis C</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="HepA_Pediatric">
+        <source>HepA_Pediatric</source>
+        <target>HepA_Pediatric</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="HepB_Pediatric">
+        <source>HepB_Pediatric</source>
+        <target>HepB_Pediatric</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hepatitis A pediatric vaccine">
+        <source>Hepatitis A pediatric vaccine</source>
+        <target>Hepatitis A pediatric vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Hepatitis B pediatric vaccine">
+        <source>Hepatitis B pediatric vaccine</source>
+        <target>Hepatitis B pediatric vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="HibMenC">
+        <source>HibMenC</source>
+        <target>HibMenC</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="IPV">
+        <source>IPV</source>
+        <target>IPV</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Inactivated polio vaccine">
+        <source>Inactivated polio vaccine</source>
+        <target>Inactivated polio vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Influenza_Pediatric">
+        <source>Influenza_Pediatric</source>
+        <target>Influenza_Pediatric</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Influenza_Pediatric vaccine">
+        <source>Influenza_Pediatric vaccine</source>
+        <target>Influenza_Pediatric vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="JE_LiveAtd">
+        <source>JE_LiveAtd</source>
+        <target>JE_LiveAtd</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Japanese encephalitis live vaccine">
+        <source>Japanese encephalitis live vaccine</source>
+        <target>Japanese encephalitis live vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Keeps hands fisted and lacks arm movement">
+        <source>Keeps hands fisted and lacks arm movement</source>
+        <target>Keeps hands fisted and lacks arm movement</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Know what knid of food you should give to your baby">
+        <source>Know what knid of food you should give to your baby</source>
+        <target>Know what knid of food you should give to your baby</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Langugage">
+        <source>Langugage</source>
+        <target>Langugage</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Learn from your neighbours">
+        <source>Learn from your neighbours</source>
+        <target>Learn from your neighbours</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Learning from the experiences to relate more effectively across cultural lines can boost your self-confidence to socialize with other cultures">
+        <source>Learning from the experiences to relate more effectively across cultural lines can boost your self-confidence to socialize with other cultures</source>
+        <target>Learning from the experiences to relate more effectively across cultural lines can boost your self-confidence to socialize with other cultures</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Less">
+        <source>Less</source>
+        <target>Less</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MMR">
+        <source>MMR</source>
+        <target>MMR</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MMRV">
+        <source>MMRV</source>
+        <target>MMRV</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MR">
+        <source>MR</source>
+        <target>MR</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Maintain digital checklist of the growth recoeds">
+        <source>Maintain digital checklist of the growth recoeds</source>
+        <target>Maintain digital checklist of the growth recoeds</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Mandarin">
+        <source>Mandarin</source>
+        <target>Mandarin</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Measles">
+        <source>Measles</source>
+        <target>Measles</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Measles mumps rubella  vaccine">
+        <source>Measles mumps rubella  vaccine</source>
+        <target>Measles mumps rubella  vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Measles vaccine">
+        <source>Measles vaccine</source>
+        <target>Measles vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Measles, mumps, rubella, varicella">
+        <source>Measles, mumps, rubella, varicella</source>
+        <target>Measles, mumps, rubella, varicella</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Measles-rubella  vaccine">
+        <source>Measles-rubella  vaccine</source>
+        <target>Measles-rubella  vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="MenA">
+        <source>MenA</source>
+        <target>MenA</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Meningococcal A vaccine">
+        <source>Meningococcal A vaccine</source>
+        <target>Meningococcal A vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="More">
+        <source>More</source>
+        <target>More</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Moves from tummy or back into sitting">
+        <source>Moves from tummy or back into sitting</source>
+        <target>Moves from tummy or back into sitting</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Name">
+        <source>Name</source>
+        <target>Name</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Data For This Postcode">
+        <source>No Data For This Postcode</source>
+        <target>No Data For This Postcode</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="No Rating Data For this Postcode">
+        <source>No Rating Data For this Postcode</source>
+        <target>No Rating Data For this Postcode</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="OK">
+        <source>OK</source>
+        <target>OK</target>
+        <note>Default action</note>
+      </trans-unit>
+      <trans-unit id="OPV">
+        <source>OPV</source>
+        <target>OPV</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Oral polio vaccine">
+        <source>Oral polio vaccine</source>
+        <target>Oral polio vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Other Chinese language">
+        <source>Other Chinese language</source>
+        <target>Other Chinese language</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Percent full immunised (%)">
+        <source>Percent full immunised (%)</source>
+        <target>Percent full immunised (%)</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please Enter Your Postcode">
+        <source>Please Enter Your Postcode</source>
+        <target>Please Enter Your Postcode</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please Entre a Postcode">
+        <source>Please Entre a Postcode</source>
+        <target>Please Entre a Postcode</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Please input your postcode above">
+        <source>Please input your postcode above</source>
+        <target>Please input your postcode above</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pneumo_conj">
+        <source>Pneumo_conj</source>
+        <target>Pneumo_conj</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pneumococcal conjugate vaccine">
+        <source>Pneumococcal conjugate vaccine</source>
+        <target>Pneumococcal conjugate vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Poor">
+        <source>Poor</source>
+        <target>Poor</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Pulls to stand and cruises along furniture">
+        <source>Pulls to stand and cruises along furniture</source>
+        <target>Pulls to stand and cruises along furniture</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rate">
+        <source>Rate</source>
+        <target>Rate</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Recommend a place where you can get more help">
+        <source>Recommend a place where you can get more help</source>
+        <target>Recommend a place where you can get more help</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reconnecting to your culture can enrich your sense of self-identity and overall wellbeing">
+        <source>Reconnecting to your culture can enrich your sense of self-identity and overall wellbeing</source>
+        <target>Reconnecting to your culture can enrich your sense of self-identity and overall wellbeing</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rolls from back to tummy and tummy to back">
+        <source>Rolls from back to tummy and tummy to back</source>
+        <target>Rolls from back to tummy and tummy to back</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rotavirus">
+        <source>Rotavirus</source>
+        <target>Rotavirus</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Rotavirus vaccine">
+        <source>Rotavirus vaccine</source>
+        <target>Rotavirus vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sits and reaches for toys without falling">
+        <source>Sits and reaches for toys without falling</source>
+        <target>Sits and reaches for toys without falling</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sorry">
+        <source>Sorry</source>
+        <target>Sorry</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Sorry, No Records">
+        <source>Sorry, No Records</source>
+        <target>Sorry, No Records</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Squats to pick up toy">
+        <source>Squats to pick up toy</source>
+        <target>Squats to pick up toy</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Stands alone and takes independent steps">
+        <source>Stands alone and takes independent steps</source>
+        <target>Stands alone and takes independent steps</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Starts to move with alternate leg arm movement">
+        <source>Starts to move with alternate leg arm movement</source>
+        <target>Starts to move with alternate leg arm movement</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tap and Check Your Baby's Growth">
+        <source>Tap and Check Your Baby's Growth</source>
+        <target>Tap and Check Your Baby's Growth</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Tap to Select">
+        <source>Tap to Select</source>
+        <target>Tap to Select</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="The Postcode is Incorrect">
+        <source>The Postcode is Incorrect</source>
+        <target>The Postcode is Incorrect</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Track Your Baby's Growth">
+        <source>Track Your Baby's Growth</source>
+        <target>Track Your Baby's Growth</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Understand your suburb's vaccination awarness status">
+        <source>Understand your suburb's vaccination awarness status</source>
+        <target>Understand your suburb's vaccination awarness status</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Uses hands to support self while sitting">
+        <source>Uses hands to support self while sitting</source>
+        <target>Uses hands to support self while sitting</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Vaccination Comparison by Country">
+        <source>Vaccination Comparison by Country</source>
+        <target>Vaccination Comparison by Country</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Vaccination Description">
+        <source>Vaccination Description</source>
+        <target>Vaccination Description</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Vaccination Tracker">
+        <source>Vaccination Tracker</source>
+        <target>Vaccination Tracker</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Vitamin A">
+        <source>Vitamin A</source>
+        <target>Vitamin A</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Vitamin A vaccine">
+        <source>Vitamin A vaccine</source>
+        <target>Vitamin A vaccine</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Walks independently and seldom falls">
+        <source>Walks independently and seldom falls</source>
+        <target>Walks independently and seldom falls</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning: Cannot take weight on legs">
+        <source>Warning: Cannot take weight on legs</source>
+        <target>Warning: Cannot take weight on legs</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning: Difficult to bring arms forward">
+        <source>Warning: Difficult to bring arms forward</source>
+        <target>Warning: Difficult to bring arms forward</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning: Difficulty crawling">
+        <source>Warning: Difficulty crawling</source>
+        <target>Warning: Difficulty crawling</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning: Difficulty lifting head">
+        <source>Warning: Difficulty lifting head</source>
+        <target>Warning: Difficulty lifting head</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning: Inability to straighten back">
+        <source>Warning: Inability to straighten back</source>
+        <target>Warning: Inability to straighten back</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning: Keeps hands fisted">
+        <source>Warning: Keeps hands fisted</source>
+        <target>Warning: Keeps hands fisted</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning: Only use arm to pull up to standing">
+        <source>Warning: Only use arm to pull up to standing</source>
+        <target>Warning: Only use arm to pull up to standing</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning: Poor standing balance">
+        <source>Warning: Poor standing balance</source>
+        <target>Warning: Poor standing balance</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning: Poor use of arms in sitting">
+        <source>Warning: Poor use of arms in sitting</source>
+        <target>Warning: Poor use of arms in sitting</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning: Sits with weight to one side">
+        <source>Warning: Sits with weight to one side</source>
+        <target>Warning: Sits with weight to one side</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning: Unable to take steps">
+        <source>Warning: Unable to take steps</source>
+        <target>Warning: Unable to take steps</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning: Uses one hand predominately">
+        <source>Warning: Uses one hand predominately</source>
+        <target>Warning: Uses one hand predominately</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning: Walks on toes">
+        <source>Warning: Walks on toes</source>
+        <target>Warning: Walks on toes</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Warning:Rounded back">
+        <source>Warning:Rounded back</source>
+        <target>Warning:Rounded back</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="We use face ID to protect your baby's privacy">
+        <source>We use face ID to protect your baby's privacy</source>
+        <target>We use face ID to protect your baby's privacy</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="While lying on their tummy Lifts and head up">
+        <source>While lying on their tummy Lifts and head up</source>
+        <target>While lying on their tummy Lifts and head up</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="While lying on their tummy Pushes up on arms">
+        <source>While lying on their tummy Pushes up on arms</source>
+        <target>While lying on their tummy Pushes up on arms</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="accepts entire weight with legs">
+        <source>accepts entire weight with legs</source>
+        <target>accepts entire weight with legs</target>
+        <note>No comment provided by engineer.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

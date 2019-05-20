@@ -1,0 +1,502 @@
+/*
+ Localizable.strings
+ Week9Tutorial
+ 
+ Created by Siyu Zhang on 10/5/19.
+ Copyright © 2019 Jason Haasz. All rights reserved.
+ */
+
+//This file is used to store the strings that used to make localization.
+//（Chinese simplified）
+
+//First view controller, button
+"Vaccinate" = "查询信息";
+
+"Track" = "成长历程";
+
+"Connect" = "连接你我";
+
+"Locate" = "帮我查找";
+
+//first view controller, title string, 1, "Vaccination Tracker"
+"Vaccination Tracker" = "疫苗信息";
+
+//first view controller, title string, 2, "Growth Tracker"
+"Growth Tracker" = "成长历程";
+"Growth Milestones" = "成长历程";
+
+//first view controller, title string, 3, "Connect You"
+"Connect You" = "连接你我";
+
+//first view controller, title string, 4, "Baby's Care"
+"Baby's Care" = "关爱宝宝";
+
+//first view controller, 1 lable, 1, "Find the vaccination difference between Australia and China"
+//"FindDifference" = "查找中澳疫苗需求差异";
+"Find vaccination differences between Australia & China"= "查询中澳疫苗接种差异";
+
+//first view controller, 1 lable, 2, "Find age wise growth charts"
+"Explore baby development milestones" = "查看孩子的成长记录";
+
+//first view controller, 1 lable, 3, "Find the places where you want to live"
+//"Find the places where you want to live" = "根据你的需求寻找你心仪的住所";
+"Choose ideal suburb based on your preferences" = "根据你的需求寻找你心仪的住所";
+
+//first view controller, 1 lable, 4, "Find kindergartens in your suburb"
+"Find kindergartens nearby" = "寻找你附近的幼儿园";
+
+
+//first view controller, 2 lable, 1, "Understand your suburb's vaccination awarness status"
+//"Understand your suburb's vaccination awarness status" = "了解你所居住地区的疫苗覆盖率";
+"Know suburb's vaccination awareness status" = "了解你所在社区的疫苗覆盖率";
+
+//first view controller, 2 lable, 2, "Maintain digital checklist of the growth recoeds"
+"Maintain a digital checklist of your baby's growth" = "使用电子清单来记录宝宝的成长历程";
+
+//first view controller, 2 lable, 3, "Recommend a place where you can get more help"
+"Connect to the Chinese Community" = "帮你寻找华人社区";
+
+//first view controller, 2 lable, 4, "Find childcare centres in your suburb"
+"Find childcare centres nearby" = "为你的孩子寻找适合的日托班";
+
+//first view controller, 3 lable, 1, "Find vaccination palces near me"
+//"Find vaccination palces near me" = "寻找附近的疫苗接种站";
+"Find vaccination centres near me" = "寻找附近的疫苗中心";
+
+//first view controller, 3 lable, 2, "We use face ID to protect your baby's privacy"
+//"We use face ID to protect your baby's privacy" = "我们还使用面容ID来保护您孩子的隐私";
+"Ensure baby is on the right track" = "确认孩子的生长发育";
+
+//first view controller, 3 lable, 3, "Learn from your neighbours"
+"Explore nearby parks" = "寻找附近公园";
+
+//first view controller, 3 lable, 4, "Know what knid of food you should give to your baby"
+//"Know what knid of food you should give to your baby" = "了解适合您孩子的食物";
+"Ensure the child’s social and physical development" = "了解孩子身心健康";
+
+// VacInfoPage/SecondViewController, "Baby's Age in Month"
+"Baby's Age in Month" = "孩子的年龄（月份）";
+
+// VacInfoPage/SecondViewController, "0-2 Month"
+"0-2 Month" = "0-2 个月";
+
+/// VacInfoPage/SecondViewController, "2-4 Month"
+"2-4 Month" = "2-4 个月";
+
+/// VacInfoPage/SecondViewController, "4-6 Month"
+"4-6 Month" = "4-6 个月";
+
+/// VacInfoPage/SecondViewController, "6-12 Month"
+"6-12 Month" = "6-12 个月";
+
+// VacInfoPage/TestViewController, "Australia"
+"Australia" = "澳大利亚";
+
+// VacInfoPage/TestViewController, "China"
+"China" = "中国";
+
+// VacInfoPage/TestViewController
+"Vaccination Comparison by Country" = "中澳疫苗比较";
+
+"Vaccination Description" = "疫苗信息";
+
+//VacInfoPage/TestViewController Data Description
+"BCG" = "BCG";
+
+"Bacille Calmette-Guérin (BCG) vaccine" = "结核病疫苗，又被称为卡介苗";
+
+"DTaP" = "DTaP";
+
+"Diphtheria, tetanus and pertussis vaccine" = "无细胞百日咳疫苗";
+
+"DTaPHibHepBIPV" = "DTaPHibHepBIPV";
+
+"6 in 1 vaccine " = "白喉、破伤风、百日咳、小儿麻痹及甲乙型流感嗜血杆菌疫苗";
+
+"HepA_Pediatric" = "HepA_Pediatric";
+
+"Hepatitis A pediatric vaccine" = "A 型肝炎疫苗，又称甲肝疫苗";
+
+"HepB_Pediatric" = "HepB_Pediatric";
+
+"Hepatitis B pediatric vaccine" = "B 型肝炎疫苗，又称甲肝疫苗";
+
+"HibMenC" = "HibMenC";
+
+"Haemophilus influenzae type b and meningitis C" = "B型嗜血杆菌，C群脑膜炎混合疫苗";
+
+"IPV" = "IPV";
+
+"Inactivated polio vaccine" = "灭活小儿麻痹疫苗";
+
+"Measles vaccine" = "Measles vaccine";
+
+"Measles mumps rubella  vaccine" = "麻疹疫苗";
+
+"MMRV" = "MMRV";
+
+"Measles, mumps, rubella, varicella" = "麻疹，腮腺炎，德国麻疹，水痘混合疫苗";
+
+"MR" = "MR";
+
+"Measles-rubella  vaccine" = "麻疹、德国麻疹疫苗混合疫苗";
+
+"OPV" = "OPV";
+
+"Oral polio vaccine" = "口服式小儿麻痹疫苗";
+
+"Rotavirus" = "Rotavirus";
+
+"Rotavirus vaccine" = "轮状病毒疫苗";
+
+"Vitamin A" = "Vitamin A";
+
+"Vitamin A vaccine" = "维他命A";
+
+"DTwP" = "DTwP";
+
+"Diptheria, tetanus and pertussis vaccines" = "白喉、破伤风、非细胞性百日咳混合疫苗";
+
+"DTwPHibHepB" = "DTwPHibHepB";
+
+"5 in 1 vaccine" = "五合一疫苗（白喉、破伤风、非细胞性百日咳、b型嗜血杆菌及不活化小儿麻痹混合疫苗）";
+
+"Influenza_Pediatric" = "Influenza_Pediatric";
+
+"Influenza_Pediatric vaccine" = "流感疫苗";
+
+"JE_LiveAtd" = "JE_LiveAtd";
+
+"Japanese encephalitis live vaccine" = "日本脑炎疫苗";
+
+"MenA" = "MenA";
+
+"Meningococcal A vaccine" = "流行性脑脊髓膜炎疫苗";
+
+"Pneumo_conj" = "Pneumo_conj";
+
+"Pneumococcal conjugate vaccine" = "肺炎链球菌疫苗";
+
+
+//ConnectPage/ ConnectViewController
+"Please Enter a Postcode" = "请输入邮编";
+
+"Confirm" = "确认";
+
+"Cancel" = "取消";
+
+"Sorry, No Records" = "对不起，此地区无结果";
+
+//MapPage/RatingListController
+
+"Name" = "名字";
+
+"Rating" = "评分";
+
+//tracker/vacTrackerViewController
+
+"Do You Know?\nDifferent countries have different vaccination schedule" = "你知道么\n不同国家有不同的疫苗注射要求";
+
+"Do You Know?\nHow is your suburb in vaccination awareness and facilities" = "你了解你所住区域的疫苗覆盖率\n和疫苗中心么";
+
+"Compare the vaccinations of China and Australia and stay updated" = "现在就来查看中澳疫苗差异吧";
+
+"Find the previous year vaccination coverage rates of the suburb to know vaccination facilities in your area" = "查看你所住区域过往年份的疫苗覆盖率和疫苗中心吧";
+
+"Find More" = "查看更多";
+
+"Compare" = "查看对比";
+
+//coveragePage/ThirdViewController
+
+"The Postcode is Incorrect" = "邮编错误";
+
+"Sorry" = "对不起";
+
+"Please Enter Your Postcode" = "请输入您的邮编";
+
+"Percent full immunised (%)" = "疫苗全部接种（百分比%）";
+
+"Please input your postcode above" = "请在框中填入想要查询的邮编号码";
+
+/*
+ information changed, not using anymore
+ //MilestonePage/SixthViewController
+ 
+ "Baby Development milestones 0 to 24 months\nWhat's more exciting than to see your child grow\nTap to check Your Baby's Growth" = "0 至 24 个月婴幼儿成长记录";
+ 
+ "Tap and Check Your Baby's Growth" = "点击来查看孩子的成长状况";
+ 
+ "0-3 Months" = "0-3 个月";
+ 
+ "Checklist" = "清单";
+ 
+ "While lying on their tummy Pushes up on arms" = "孩子可以在俯卧时用双手支撑起上半身";
+ 
+ "While lying on their tummy Lifts and head up" = "孩子可以在俯卧时抬起头";
+ 
+ "Warning: Difficulty lifting head" = "异常：难以在俯卧时抬起头 ";
+ 
+ "Warning: Keeps hands fisted" = "异常： 拳头长时间握紧难以松开 (需要注意)";
+ 
+ "3-6 Months" = "3-6 个月";
+ 
+ "Uses hands to support self while sitting" = "可以使用双手支撑坐立";
+ 
+ "Rolls from back to tummy and tummy to back" = " 可以正常左右翻滚";
+ 
+ "accepts entire weight with legs" = "可以用双腿支撑全身重量";
+ 
+ "Warning:Rounded back" = "异常： 长时间弓背 ";
+ 
+ "Warning: Difficult to bring arms forward" = "异常： 难以甚至双臂 ";
+ 
+ "6-9 Months" = "6-9 个月";
+ 
+ "Sits and reaches for toys without falling" = "可以正常的在坐立和站立姿态下够到玩具";
+ 
+ "Moves from tummy or back into sitting" = "可以从俯卧或者仰卧状态下坐直";
+ 
+ "Starts to move with alternate leg arm movement" = "可以尝试使用双腿行走";
+ 
+ "Keeps hands fisted and lacks arm movement" = "可以正常保持双手握拳并减少使用上肢移动";
+ 
+ "Warning: Uses one hand predominately" = "异常： 多数情况下只使用一只手 ";
+ 
+ "Warning: Poor use of arms in sitting" = "异常： 难以在坐立姿势下使用双手 ";
+ 
+ "Warning: Difficulty crawling" = "异常： 难以正常爬行";
+ 
+ "Warning: Inability to straighten back" = "异常： 难以伸直背部";
+ 
+ "Warning: Cannot take weight on legs" = "异常： 难以使用双腿支撑体重";
+ 
+ "9-12 Months" = "9-12 个月";
+ 
+ "Pulls to stand and cruises along furniture" = "可以凭借家具站立";
+ 
+ "Stands alone and takes independent steps" = "可以正常站立并尝试独立行走";
+ 
+ "Warning: Sits with weight to one side" = "异常： 坐立时常常体重偏向一边";
+ 
+ "Warning: Only use arm to pull up to standing" = "异常： 只会使用手臂支撑站立";
+ 
+ "12-15 Months" = "12-15 个月";
+ 
+ "Walks independently and seldom falls" = "可以独立行走并不会摔倒";
+ 
+ "Squats to pick up toy" = "可以蹲下捡起玩具";
+ 
+ "Warning: Unable to take steps" = "异常： 难以独立行走";
+ 
+ "Warning: Walks on toes" = "异常： 使用脚尖走路";
+ 
+ "Warning: Poor standing balance" = "异常： 难以保持站立平衡";
+ 
+ */
+
+
+//ConnectPage/FilterVIewComtroller
+
+"Connecting to the same culturally rich community can imbibe the cultural values in your kids and keep them related to their own culture" = "居住在相同文化的社区内，可以让您的孩子从小就体验到家里的温暖并学习到祖国的文化";
+
+"Reconnecting to your culture can enrich your sense of self-identity and overall wellbeing" = "在国外也可以体验到相同的文化可以提高自我认同感和归属感";
+
+"Learning from the experiences to relate more effectively across cultural lines can boost your self-confidence to socialize with other cultures" = "通过相同和不同的文化交流，可以提高您的自信心";
+
+"Langugage" = "语言";
+
+"Find a suburb where Chinese people speaks:" = "寻找说此种汉语语言的社区：";
+
+"Mandarin" = "普通话";
+
+"Cantonese" = "粤语";
+
+"Other Chinese language" = "其他方言";
+
+"English Only" = "只说英语";
+
+"Tap to Select" = "点击选择";
+
+"Chinese Population" = "华人人口数量";
+
+"Find a suburb where the number of Chinese people is:" = "查找华人人口数量为...的城区";
+
+"More" = "较多";
+
+"Less" = "较少";
+
+"English Proficiency" = "英语水平";
+
+"Find the suburb where the Chinese people's proficiency is:" = "寻找英语平均水平为...的社区";
+
+"Excellent" = "非常熟练";
+
+"Good" = "熟练";
+
+"Average" = "平均";
+
+"Poor" = "较差";
+
+
+//MilestonePage.SixthViewController
+
+"Tap on the age to explore" = "轻点年龄以记录成长里程碑";
+
+//MilestonePage/ExampleData
+
+//"Baby Development milestones 0 to 24 months\nWhat's more exciting than to see your child grow\nTap to check Your Baby's Growth" = "0 至 24 个月婴幼儿成长记录";
+
+
+"0-4 Months" = "0-4 个月";
+
+"\nAble to lift head and chest when laying on stomach\n" = "\n俯卧时可以支撑起头部和前胸的重量\n";
+
+"\nResponds to gentle touching, cuddling, rocking\n" = "\n在被轻触或拥抱时有回应\n";
+
+"\nAble to grasp finger put into hands\n" = "\n可以攥紧手指\n";
+
+"4-8 Months" = "4-8 个月";
+
+"\nRaises head and chest when lying on stomach\n" = "\n可以在俯卧时抬起头\n";
+
+"\nAble to take weight on feet when standing\n" = "\n可以用双腿支撑体重\n";
+
+"\nPlays with feet and toes\n" = "\n经常玩弄自己的手指和脚趾\n";
+
+"8-12 Months" = "8-12 个月";
+
+"\nStands by pulling themself up using furniture\n" = "\n可以凭借家具站立\n";
+
+"\nMature crawling (quick and fluent)\n" = "\n可以用双手快速爬行\n";
+
+
+"\nHolds biscuit or bottle\n" = "\n可以手握饼干或者空水瓶\n";
+
+"1-2 Years" = "1-2 周岁";
+
+"\nChild walks\n" = "\n可以独立稳定行走\n";
+
+"\nScribbles with pencil or crayon held in fist\n" = "\n可以用拳头握紧铅笔\n";
+
+"\nCan drink from a cup\n" = "\n可以独立用杯子喝水\n";
+
+//connectPage/ConnectMapViewController
+"Loading..." = "载入中...";
+
+//Disease
+"Hepatitis B" = "乙型肝炎";
+
+"Diphtheria, tetanus, pertussis (whooping cough), hepatitis B, polio, Haemophilus influenzae type b (Hib)" = "白喉，破伤风，百日咳，乙型肝炎，小儿麻痹症(脊髓灰质炎），B型流感嗜血杆菌";
+
+"Pneumococcal" = "肺炎链球菌";
+
+"Rotavirusb" = "轮状病毒";
+
+"Hepatitis A" = "甲型肝炎";
+
+"Measles, mumps, rubella" = "麻疹，流行性腮腺炎，风疹";
+
+"Diphtheria, tetanus, pertussis (whooping cough)" = "白喉，破伤风，百日咳";
+
+"Measles, mumps, rubella, varicella (chickenpox)" = "麻疹，流行性腮腺炎，风疹，水痘";
+
+"Tuberculosis" = "肺结核";
+
+"Polio" = "小儿麻痹症（脊髓灰质炎）";
+
+"meningococcal" = "脑膜炎";
+
+"Japanese Encephalitis" = "日本脑炎（乙型脑炎）";
+
+"Measles, rubella" = "麻疹，风疹";
+
+//VacInfoPage/VaccinationBottonPopup
+
+"Tuberculosis(TB)" = "结核病";
+
+"brain and nervous system damage,heart and nerve damage, breathing problems" = "脑损伤，心脏损伤，呼吸道损伤";
+
+"liver cancer,jaundice" = "肝癌，黄疸";
+
+"liver problems" = "肝硬化";
+
+"meningitis and blood poisoning" = "脑膜炎和血毒症";
+
+"viral illness that is transmitted by respiratory aerosols" = "通过呼吸道传播的病毒性疾病";
+
+"3 diseases – measles, mumps and rubella in a single combined injection" = "3种疾病 - 单次联合注射麻疹，腮腺炎和风疹";
+
+"measles, mumps, rubella and chickenpox" = "麻疹，腮腺炎，风疹和水痘";
+
+"preventing both measles and rubella diseases in the child" = "预防儿童麻疹和风疹病";
+
+"polio virus" = "小儿麻痹症";
+
+"severe and life-threatening diarrhoea" = "严重危及生命的腹泻";
+
+"flu" = "流行性感冒";
+
+"Japanese encephalitis (JE) disease which mainly affects the central nervous system" = "影响中枢神经系统的日本脑炎";
+
+"severe scarring, loss of limbs, brain damage and death" = "严重的疤痕，四肢脱落，脑损伤和死亡";
+
+"pneumonia, meningitis and bronchitis" = "肺炎，脑膜炎和支气管炎";
+
+"Measles mumps rubella (MMR) vaccine" = "麻疹腮腺炎风疹（MMR）疫苗";
+
+//"HepB_Pediatric" = "乙型肝炎";
+
+"hepatitis B pediatric vaccine" = "乙肝疫苗";
+
+"brain and nervous system damage,heart and nerve damage,breathing problems,paralysis of muscles,blood poisoning,polio" = "大脑和神经系统受损，心脏和神经损伤，呼吸问题，肌肉麻痹，血液中毒，脊髓灰质炎";
+
+"inactivated polio vaccine (IPV)" = "小儿麻痹症疫苗";
+
+"polio" = "小儿麻痹症";
+
+"diphtheria, tetanus and pertussis vaccine" = "白喉，破伤风和百日咳疫苗";
+
+"hepatitis A pediatric vaccine" = "甲肝疫苗";
+
+"Haemophilus influenzae type b (Hib) and meningitis C" = "b型流感嗜血杆菌和脑膜炎C";
+
+"Measles-rubella (MR) vaccine" = "麻疹 - 风疹（MR）疫苗";
+
+
+/*
+ //walkthrough.storyboard
+ "Understand vaccination requirements for your baby" = "掌握中澳疫苗差异";
+ 
+ "Maintain digital checklist of your child's growth" = "使用电子清单来追踪孩子的成长记录";
+ 
+ "Find suburbs to reconnect to your culture" = "根据您的需求选择适合的社区";
+ 
+ "Find nearby childcare and kindergartens"  = "寻找附近的幼儿园和日托班";
+ 
+ "Application also available in Chinese" = "现在应用已全面适配中文";
+ */
+
+//LastTutViewController
+"Follow these steps to change the language of the application to Chinese:\nGo to Mobile settings -> General -> Language -> Region -> iPhone Language -> Chinese, Simplified" = "本应用软件自动跟随系统语言，使用以下步骤来更改您的系统语言到英语：设置->通用->语言与地区->iphone 语言->English （英文）";
+
+//HomePage/FirstViewController
+
+"Child Growth Milestones" = "成长历程";
+
+"Suburb Finder" = "心仪社区";
+
+"Baby’s Day Out" = "关爱宝宝";
+
+//ConnectPage/FilterViewController
+
+"Sorry" = "对不起";
+
+"You must select at least one option" = "您必须至少选择一项来进行检索";
+
+"OK" = "确认";
+
+"Got it" = "好的";
+
+//MileStonePage/SixthViewController
+"Mark Done" = "已经达成";

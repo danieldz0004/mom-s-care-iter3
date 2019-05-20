@@ -1,11 +1,13 @@
 # Uncomment the next line to define a global platform for your project
 # platform :ios, '9.0'
 
-target 'Week9Tutorial' do
+target 'MumsCare' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
   use_frameworks!
 
-  # Pods for Week9Tutorial
+  # Pods for MumsCare
+
+  pod 'Firebase'
   pod 'Firebase/Database'
   pod 'Firebase/Auth'
   pod 'GoogleMaps'
@@ -20,13 +22,15 @@ target 'Week9Tutorial' do
   pod 'SwiftyJSON', '~> 4.0' 
   pod 'PopupDialog', '~> 1.1'
   pod 'ZKCarousel'
+  pod 'EzPopup'  
+  pod "BWWalkthrough"
 
- target 'Week9TutorialTests' do
+  target 'MumsCareTests' do
     inherit! :search_paths
     # Pods for testing
   end
 
-  target 'Week9TutorialUITests' do
+  target 'MumsCareUITests' do
     inherit! :search_paths
     # Pods for testing
   end

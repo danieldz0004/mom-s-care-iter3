@@ -1,0 +1,316 @@
+/*
+ Localizable.strings
+ Week9Tutorial
+ 
+ Created by Siyu Zhang on 10/5/19.
+ Copyright © 2019 Jason Haasz. All rights reserved.
+ */
+
+//This file is used to store the strings that used to make localization.
+//（Chinese simplified）
+
+//first view controller, title string, 1, "Vaccination Tracker"
+"Vaccination Tracker" = "疫苗信息";
+
+//first view controller, title string, 2, "Growth Tracker"
+"Growth Tracker" = "成长历程";
+
+//first view controller, title string, 3, "Connect You"
+"Connect You" = "查询地图";
+
+//first view controller, title string, 4, "Baby's Care"
+"Baby's Care" = "关爱宝宝";
+
+//first view controller, 1 lable, 1, "Find the vaccination difference between Australia and China"
+"FindDifference" = "查找中澳疫苗需求差异";
+
+//first view controller, 1 lable, 2, "Find age wise growth charts"
+"Find age wise growth charts" = "查看孩子的成长记录";
+
+//first view controller, 1 lable, 3, "Find the places where you want to live"
+"Find the places where you want to live" = "根据你的需求寻找你心仪的住所";
+
+//first view controller, 1 lable, 4, "Find kindergartens in your suburb"
+"Find kindergartens in your suburb" = "寻找你所居住的城区的幼儿园";
+
+
+//first view controller, 2 lable, 1, "Understand your suburb's vaccination awarness status"
+"Understand your suburb's vaccination awarness status" = "了解你所居住地区的疫苗覆盖率";
+
+//first view controller, 2 lable, 2, "Maintain digital checklist of the growth recoeds"
+"Maintain digital checklist of the growth recoeds" = "使用电子清单来记录宝宝的成长历程";
+
+//first view controller, 2 lable, 3, "Recommend a place where you can get more help"
+"Recommend a place where you can get more help" = "帮你寻找你想要去的地方";
+
+//first view controller, 2 lable, 4, "Find childcare centres in your suburb"
+"Find childcare centres in your suburb" = "为你的孩子寻找适合的日托班";
+
+//first view controller, 3 lable, 1, "Find vaccination palces near me"
+"Find vaccination palces near me" = "寻找附近的疫苗注射站";
+
+//first view controller, 3 lable, 2, "We use face ID to protect your baby's privacy"
+"We use face ID to protect your baby's privacy" = "我们还使用面容ID来保护您孩子的隐私";
+
+//first view controller, 3 lable, 3, "Learn from your neighbours"
+"Learn from your neighbours" = "寻求邻居的帮助";
+
+//first view controller, 3 lable, 4, "Know what knid of food you should give to your baby"
+"Know what knid of food you should give to your baby" = "了解适合您孩子的食物";
+
+// VacInfoPage/SecondViewController, "Baby's Age in Month"
+"Baby's Age in Month" = "孩子的年龄（月份）";
+
+// VacInfoPage/SecondViewController, "0-2 Month"
+"0-2 Month" = "0-2 个月";
+
+/// VacInfoPage/SecondViewController, "2-4 Month"
+"2-4 Month" = "2-4 个月";
+
+/// VacInfoPage/SecondViewController, "4-6 Month"
+"4-6 Month" = "4-6 个月";
+
+/// VacInfoPage/SecondViewController, "6-12 Month"
+"6-12 Month" = "6-12 个月";
+
+// VacInfoPage/TestViewController, "Australia"
+"Australia" = "澳大利亚";
+
+// VacInfoPage/TestViewController, "China"
+"China" = "中国";
+
+// VacInfoPage/TestViewController
+"Vaccination Comparison by Country" = "中澳疫苗比较";
+
+"Vaccination Description" = "疫苗信息";
+
+//VacInfoPage/TestViewController Data Description
+"BCG" = "BCG";
+
+"Bacille Calmette-Guérin vaccine" = "结核病疫苗，又被称为卡介苗";
+
+"DTaP" = "DTaP";
+
+"Diphtheria, tetanus and pertussis vaccine" = "无细胞百日咳疫苗";
+
+"DTaPHibHepBIPV" = "DTaPHibHepBIPV";
+
+"6 in 1 vaccine" = "可预防白喉、破伤风、百日咳、小儿麻痹及甲乙型流感嗜血杆菌";
+
+"HepA_Pediatric" = "HepA_Pediatric";
+
+"Hepatitis A pediatric vaccine" = "A 型肝炎疫苗，又称甲肝疫苗";
+
+"HepB_Pediatric" = "HepB_Pediatric";
+
+"Hepatitis B pediatric vaccine" = "B 型肝炎疫苗，又称甲肝疫苗";
+
+"HibMenC" = "HibMenC";
+
+"Haemophilus influenzae type b and meningitis C" = "B型嗜血杆菌，C群脑膜炎混合疫苗";
+
+"IPV" = "IPV";
+
+"Inactivated polio vaccine" = "灭活小儿麻痹疫苗";
+
+"Measles vaccine" = "Measles vaccine";
+
+"Measles mumps rubella  vaccine" = "麻疹疫苗";
+
+"MMRV" = "MMRV";
+
+"Measles, mumps, rubella, varicella" = "麻疹，腮腺炎，德国麻疹，水痘混合疫苗";
+
+"MR" = "MR";
+
+"Measles-rubella  vaccine" = "麻疹、德国麻疹疫苗混合疫苗";
+
+"OPV" = "OPV";
+
+"Oral polio vaccine" = "口服式小儿麻痹疫苗";
+
+"Rotavirus" = "Rotavirus";
+
+"Rotavirus vaccine" = "轮状病毒疫苗";
+
+"Vitamin A" = "Vitamin A";
+
+"Vitamin A vaccine" = "维他命A";
+
+"DTwP" = "DTwP";
+
+"Diptheria, tetanus and pertussis vaccines" = "白喉、破伤风、非细胞性百日咳混合疫苗";
+
+"DTwPHibHepB" = "DTwPHibHepB";
+
+"5 in 1 vaccine" = "五合一疫苗（白喉、破伤风、非细胞性百日咳、b型嗜血杆菌及不活化小儿麻痹混合疫苗）";
+
+"Influenza_Pediatric" = "Influenza_Pediatric";
+
+"Influenza_Pediatric vaccine" = "流感疫苗";
+
+"JE_LiveAtd" = "JE_LiveAtd";
+
+"Japanese encephalitis live vaccine" = "日本脑炎疫苗";
+
+"MenA" = "MenA";
+
+"Meningococcal A vaccine" = "流行性脑脊髓膜炎疫苗";
+
+"Pneumo_conj" = "Pneumo_conj";
+
+"Pneumococcal conjugate vaccine" = "肺炎链球菌疫苗";
+
+
+//ConnectPage/ ConnectViewController
+"Please Entre a Postcode" = "请输入邮编";
+
+"Confirm" = "确认";
+
+"Cancel" = "取消";
+
+"Sorry, No Records" = "对不起，此地区无结果";
+
+//MapPage/RatingListController
+
+"Name" = "名字";
+
+"Rate" = "评分";
+
+//tracker/vacTrackerViewController
+
+"Do You Know?\nDifferent countries have different vaccination schedule" = "你知道么\n不同国家有不同的疫苗注射要求";
+
+"Do You Know?\nHow is your surburb in vaccination awarness and facilities" = "你了解你所住区域的疫苗覆盖率\n和疫苗中心么";
+
+"Compare the vaccinations of China and Australia and stay updated" = "现在就来查看中澳疫苗差异吧";
+
+"Find the previous year vaccination coverage rates of the suburb to know vaccination facilities in your area" = "查看你所住区域过往年份的疫苗覆盖率和疫苗中心吧";
+
+"Find More" = "查看更多";
+
+"Compare" = "查看对比";
+
+//coveragePage/ThirdViewController
+
+"The Postcode is Incorrect" = "邮编错误";
+
+"Sorry" = "对不起";
+
+"Please Enter Your Postcode" = "请输入您的邮编";
+
+"Percent full immunised (%)" = "疫苗全部接种（百分比%）";
+
+"Please input your postcode above" = "请在框中填入想要查询的邮编号码";
+
+//MilestonePage/SixthViewController
+
+"Tap and Check Your Baby's Growth" = "点击来查看孩子的成长状况";
+
+"0-3 Months" = "0-3 个月";
+
+"Checklist" = "清单";
+
+"While lying on their tummy Pushes up on arms" = "孩子可以在俯卧时用双手支撑起上半身";
+
+"While lying on their tummy Lifts and head up" = "孩子可以在俯卧时抬起头";
+
+"Warning: Difficulty lifting head" = "异常：难以在俯卧时抬起头 ";
+
+"Warning: Keeps hands fisted" = "异常： 拳头长时间握紧难以松开 (需要注意)";
+
+"3-6 Months" = "3-6 个月";
+
+"Uses hands to support self while sitting" = "可以使用双手支撑坐立";
+
+"Rolls from back to tummy and tummy to back" = " 可以正常左右翻滚";
+
+"accepts entire weight with legs" = "可以用双腿支撑全身重量";
+
+"Warning:Rounded back" = "异常： 长时间弓背 ";
+
+"Warning: Difficult to bring arms forward" = "异常： 难以甚至双臂 ";
+
+"6-9 Months" = "6-9 个月";
+
+"Sits and reaches for toys without falling" = "可以正常的在坐立和站立姿态下够到玩具";
+
+"Moves from tummy or back into sitting" = "可以从俯卧或者仰卧状态下坐直";
+
+"Starts to move with alternate leg arm movement" = "可以尝试使用双腿行走";
+
+"Keeps hands fisted and lacks arm movement" = "可以正常保持双手握拳并减少使用上肢移动";
+
+"Warning: Uses one hand predominately" = "异常： 多数情况下只使用一只手 ";
+
+"Warning: Poor use of arms in sitting" = "异常： 难以在坐立姿势下使用双手 ";
+
+"Warning: Difficulty crawling" = "异常： 难以正常爬行";
+
+"Warning: Inability to straighten back" = "异常： 难以伸直背部";
+
+"Warning: Cannot take weight on legs" = "异常： 难以使用双腿支撑体重";
+
+"9-12 Months" = "9-12 个月";
+
+"Pulls to stand and cruises along furniture" = "可以凭借家具站立";
+
+"Stands alone and takes independent steps" = "可以正常站立并尝试独立行走";
+
+"Warning: Sits with weight to one side" = "异常： 坐立时常常体重偏向一边";
+
+"Warning: Only use arm to pull up to standing" = "异常： 只会使用手臂支撑站立";
+
+"12-15 Months" = "12-15 个月";
+
+"Walks independently and seldom falls" = "可以独立行走并不会摔倒";
+
+"Squats to pick up toy" = "可以蹲下捡起玩具";
+
+"Warning: Unable to take steps" = "异常： 难以独立行走";
+
+"Warning: Walks on toes" = "异常： 使用脚尖走路";
+
+"Warning: Poor standing balance" = "异常： 难以保持站立平衡";
+
+//ConnectPage/FilterVIewComtroller
+
+"Connecting to the same culturally rich community can imbibe the cultural values in your kids and keep them related to their own culture" = "居住在相同文化的社区内，可以让您的孩子从小就体验到家里的温暖并学习到祖国的文化";
+
+"Reconnecting to your culture can enrich your sense of self-identity and overall wellbeing" = "在国外也可以体验到相同的文化可以提高自我认同感和归属感";
+
+"Learning from the experiences to relate more effectively across cultural lines can boost your self-confidence to socialize with other cultures" = "通过相同和不同的文化交流，可以提高您的自信心";
+
+"Langugage" = "语言";
+
+"Find a suburb where Chinese people speaks:" = "寻找说此种汉语语言的社区：";
+
+"Mandarin" = "普通话";
+
+"Cantonese" = "粤语";
+
+"Other Chinese language" = "其他方言";
+
+"English Only" = "只说英语";
+
+"Tap to Select" = "轻点以选择";
+
+"Chinese Population" = "华人人口数量";
+
+"Find a suburb where the number of Chinese people is:" = "查找华人人口数量为...的城区";
+
+"More" = "较多";
+
+"Less" = "较少";
+
+"English Proficiency" = "英语水平";
+
+"Find the suburb where the Chinese people's proficiency is:" = "寻找英语平均水平为...的社区";
+
+"Excellent" = "非常熟练";
+
+"Good" = "熟练";
+
+"Average" = "平均";
+
+"Poor" = "较差";
